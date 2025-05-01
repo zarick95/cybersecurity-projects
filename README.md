@@ -391,7 +391,7 @@ The project was executed in a controlled lab environment using a Kali Linux virt
 
      - I proposed methods to prevent clear-text transmission and unauthorized access.
 
-     <p align="center"> <img src="images/myphoto.png" width="300" </p>
+     
 
 
 
