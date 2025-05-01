@@ -26,8 +26,6 @@ This capstone project documents a penetration testing skills assessment conducte
 
 - [Key Findings](#key-findings)
 
-- [Screenshots](#screenshots)
-
 - [Remediation Proposals](#remediation-proposals)
 
 - [Challenges and Lessons Learned](#challenges-and-lessons-learned)
