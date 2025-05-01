@@ -287,15 +287,12 @@ The project was executed in a controlled lab environment using a Kali Linux virt
 
 
 
-     <p align="center"> <img src="images/nmap.png" width="300" alt="Scanning `10.5.5.0/24` for SMB targets using Nmap."/> </p>
-
-
 
   2. **SMB Enumeration with enum4linux**:
 
      - I utilized `enum4linux` which is `an information gathering tool` in enumerating shares on the target machine. `10.5.5.14`:
 
-     <p align="center"> <img src="images/nmap.png" width="300" alt="Scanning `10.5.5.0/24` for SMB targets using Nmap."/> </p>
+     <p align="center"> <img src="images/shares.png" width="300" alt="Scanning `10.5.5.0/24` for SMB targets using Nmap."/> </p>
 
 
 
