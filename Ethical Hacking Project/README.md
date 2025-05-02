@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=This+capstone+project+showcases+penetration+testing+on+networks+in+a+controlled+lab+environment.;SQL+injection+was+used+to+retrieve+credentials.;SMB+share+enumeration+was+performed+using+Nmap%2C+enum4linux%2C+and+smbclient.;Web+server+vulnerability+scanning+was+done+using+dirb.;PCAP+analysis+was+carried+out+using+Wireshark.;This+serves+as+an+educational+resource+to+myself+and+all-others.&font=Fira+Code&center=true&width=1200&height=80&color=00FF00&pause=1000">
+</p>
+
+
+
 # Cisco Ethical Hacker Capstone Project: 4 CTF Challenges
 
 ## Overview
