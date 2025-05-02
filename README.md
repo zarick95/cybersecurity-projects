@@ -476,12 +476,12 @@ The project was executed in a controlled lab environment using a Kali Linux virt
 
 ## Challenges and Lessons Learned
 
-- **SQL Injection**: I could have used sqlmap for automation but crafting manual payloads required that I had schema understanding; manual exploitation enhanced my query knowledge.
+- **SQL Injection**: I could have used sqlmap for automation but crafting manual payloads required that I had schema understanding; manual exploitation enhanced my query knowledge. Also for sqlmap, I'm still learning :)
 
 - **SMB Enumeration**: Scanning `10.5.5.0/24` revealed multiple potential targets; enum4linux provided critical share details.
 
-- **Password Cracking**: CrackStation’s speed highlighted weak password risks.
+- **Password Cracking**: CrackStation’s speed highlighted weak password risks. I think I should have used a cracking tool as well :) No worries, next time.
 
-- **PCAP Analysis**: Filtering HTTP packets improved efficiency :)
+- **PCAP Analysis**: Ei this side, I spent about 4 hours on this. The target machine was not reachable in my browser...later on changing my network settings to NAT solved it and I then navigated to find my flag. Filtering HTTP packets improved efficiency :)
 
-- **Overall**: Manual techniques and documentation deepened my cybersecurity expertise of which I’m very happy about.
+- **Overall**: I realized I worked very slow maybe since I was not timed and therefore I need to improve on time management. Manual techniques and documentation deepened my cybersecurity expertise of which I’m very happy about.
