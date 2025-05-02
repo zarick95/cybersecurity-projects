@@ -441,43 +441,51 @@ The project was executed in a controlled lab environment using a Kali Linux virt
 - **SQL Injection (Challenge 1)**:
 
   1. Filter inputs to reject malicious SQL code.
+     Always check what users type into forms or URLs. If it looks like a SQL command (e.g., SELECT, DROP), block it.
 
   2. Use prepared statements to sanitize inputs.
+     Use placeholders rather than putting user input directly into SQL commands. This prevents attackers from injecting harmful SQL.
 
   3. Apply least privilege to database accounts.
+     Give the database user only the permissions it needs and nothing more. 
 
   4. Keep databases patched and updated.
+     By regularly updating the database software to fix known security flaws.
 
   5. Deploy a WAF to block SQL injection attempts.
-
+     A Web Application Firewall (WAF) watches web traffic and blocks known attack patterns like SQL injection.
 
 
 - **Web Server Vulnerabilities (Challenge 2)**:
 
   1. Disable directory indexing.
+     Don’t allow users to see a list of files in a web directory. Hackers can find sensitive files this way.
 
   2. Restrict sensitive directories with authentication.
-
+     Do this by requiring a username and password to access private files.
 
 
 - **SMB Server Vulnerabilities (Challenge 3)**:
 
   1. Disable SMBv1 and enforce SMBv3 with encryption.
+     SMBv1 is outdated and insecure. SMBv3, has better protection like encryption.
 
   2. Require strong authentication, disable anonymous access.
-
+     Make sure users log in with a strong password. Don’t allow file sharing without authentication.
 
 
 - **Clear-Text Transmission and Unauthorized Access (Challenge 4)**:
 
   1. Enforce HTTPS with TLS 1.3.
+     Use HTTPS instead of HTTP to encrypt data during transfer, keeping it private and secure.
 
-  2. Use secure protocols like SFTP.
+  2. Use secure protocols like SFTP instead of FTP.
 
   3. Implement RBAC for file access: Give access to files based on a user’s role, not just their individual identity.
+     Role-Based Access Control means giving people access to files based on their job role. This avoids giving too much access.
 
   4. Audit file permissions regularly.
-
+     Check who can access what files and adjust permissions.
 
 
 ## Challenges and Lessons Learned
